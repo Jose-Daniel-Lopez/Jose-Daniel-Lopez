@@ -13,7 +13,6 @@ Desarrollador apasionado por la programación en Java, bases de datos en la nube
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Daniel-Lopez&layout=compact&langs_count=6)
 ![Estadísticas generales](https://github-readme-stats.vercel.app/api?username=Jose-Daniel-Lopez&show_icons=true&theme=radical)
-![Gráfico de actividad](https://github-readme-activity-graph.cyclic.app/graph?username=Jose-Daniel-Lopez&theme=github-compact)
 ![Racha de contribuciones](https://streak-stats.demolab.com?user=Jose-Daniel-Lopez&theme=radical)
 
 ## 🚀 Últimos proyectos
