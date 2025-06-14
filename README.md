@@ -4,10 +4,10 @@ Desarrollador apasionado por la programación en Java, bases de datos en la nube
 
 ## 🛠️ Tecnologías y herramientas que uso
 
-- **Java** (Spring Boot, Lombok)[1]
-- **Bases de datos**: MySQL, H2, JPA, JDBC[2]
-- **Gestión de bases de datos en la nube**: MySQL Workbench[3]
-- **Bases de datos NoSQL**: MongoDB, Cassandra (comparativas y configuraciones embebidas)[4]
+- **Java** (Spring Boot, Lombok)
+- **Bases de datos**: MySQL, H2, JPA, JDBC
+- **Gestión de bases de datos en la nube**: MySQL Workbench, H2
+- **Bases de datos NoSQL**: MongoDB, Cassandra (comparativas y configuraciones embebidas)
 
 ## 📊 Estadísticas de GitHub
 
@@ -18,8 +18,8 @@ Desarrollador apasionado por la programación en Java, bases de datos en la nube
 
 ## 🚀 Últimos proyectos
 
-- [Nombre-del-Proyecto-1](https://github.com/Jose-Daniel-Lopez/Job-Portal-Spring-Boot)
-- [Nombre-del-Proyecto-2](https://github.com/Jose-Daniel-Lopez/SpringBoot-RealTimeChat-WebApplication)
+- [Job Portal - Spring Boot](https://github.com/Jose-Daniel-Lopez/Job-Portal-Spring-Boot)
+- [Real-Time Chat App - Spring Boot + WebSockets](https://github.com/Jose-Daniel-Lopez/SpringBoot-RealTimeChat-WebApplication)
 
 ---
 
