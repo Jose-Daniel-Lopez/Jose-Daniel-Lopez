@@ -201,7 +201,7 @@
 
 <div align="center">
   
-### 💬 "Clean code is not written by following a set of rules. Clean code is written by laboriously applying a myriad of little techniques through painstakingly acquired sense of 'cleanliness'." - Robert C. Martin
+### 💬 "Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of heuristics. Professionalism and craftmanship come from values that drive disciplines." - Robert C. Martin
 
 <img src="https://komarev.com/ghpvc/?username=Jose-Daniel-Lopez&label=Vistas%20del%20Perfil&color=02D9F7&style=for-the-badge&logo=github" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/Jose-Daniel-Lopez?label=Seguidores&style=for-the-badge&color=02D9F7&logo=github" alt="GitHub Followers" />
