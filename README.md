@@ -61,6 +61,7 @@
 
 ### 🚀 Lenguajes & Frameworks
 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
@@ -101,6 +102,30 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
+## 🎯 Actualmente Aprendiendo
+
+<div align="center">
+
+### 🌐 Frontend Moderno
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+### ⚡ Sistemas de Alto Rendimiento
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### ☁️ Arquitectura Distribuida
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microgenetics&logoColor=white)
+
+</div>
+
+### 🚀 Enfoque de Aprendizaje
+
+**Frontend Evolution:** Expandiendo mis habilidades fullstack con Vue.js para complementar mi experiencia en Spring Boot
+
+**Performance & Systems:** Explorando Rust para aplicaciones de alto rendimiento y programación de sistemas
+
+**Cloud Architecture:** Profundizando en Spring Cloud y patrones de microservicios para aplicaciones escalables y distribuidas
+
 </div>
 
 ---
@@ -110,7 +135,7 @@
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jose-Daniel-Lopez)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-daniel-lopez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-daniel-l%C3%B3pez-cabello-12633a187/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseslopez08k@gmail.com)
 
 </div>
