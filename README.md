@@ -201,13 +201,13 @@
 
 <div align="center">
   
-### 💬 "El código limpio no se escribe siguiendo un conjunto de reglas. Se escribe con la disciplina de aplicar técnicas probadas a través de trabajo duro y práctica." - Robert C. Martin
+### 💬 "Clean code is not written by following a set of rules. Clean code is written by laboriously applying a myriad of little techniques through painstakingly acquired sense of 'cleanliness'." - Robert C. Martin
 
 <img src="https://komarev.com/ghpvc/?username=Jose-Daniel-Lopez&label=Vistas%20del%20Perfil&color=02D9F7&style=for-the-badge&logo=github" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/Jose-Daniel-Lopez?label=Seguidores&style=for-the-badge&color=02D9F7&logo=github" alt="GitHub Followers" />
 
 ### ⭐ ¡Gracias por visitar! ¡Construyamos algo increíble juntos! ⭐
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRnZDYyNTM0MDBhc2dha3p1c2hocDJ6NDJicHEzbDl1bjBoMGtxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12wK5ab2fH2OLm/giphy.webp" width="100%" alt="Thanks GIF" height="auto" />
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" alt="Software Development" height="auto" />
 
 </div>
