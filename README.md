@@ -208,6 +208,6 @@
 
 ### ⭐ ¡Gracias por visitar! ¡Construyamos algo increíble juntos! ⭐
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" height="auto" />
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" alt="Software Development" height="auto" />
 
 </div>
