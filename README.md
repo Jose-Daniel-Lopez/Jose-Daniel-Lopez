@@ -6,7 +6,7 @@
 
 <img align="right" height="120" src="https://avatars.githubusercontent.com/u/tu-usuario" />
 
-👋 Hola, soy **Jose Daniel López** — un desarrollador apasionado especializado en **Java y Spring Boot** que ama construir aplicaciones robustas y escalables.
+👋 Hola, soy **Jose Daniel López** — un desarrollador apasionado especializado en **Java y Spring** que ama construir aplicaciones robustas y escalables.
 
 🎯 **Actualmente enfocado en:** Desarrollo backend con Java, Spring Boot y gestión de bases de datos  
 💡 **Siempre explorando:** Nuevas tecnologías, mejores prácticas y soluciones innovadoras  
