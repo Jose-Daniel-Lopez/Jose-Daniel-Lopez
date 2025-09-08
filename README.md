@@ -19,24 +19,23 @@
 <table>
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="https://github.com/Jose-Daniel-Lopez/Job-Portal-Spring-Boot">
-        <img src="images/job-portal.png" width="300" height="180" alt="Job Portal" style="border-radius: 10px;"/><br/>
-        <b>💼 Job Portal - Spring Boot</b>
+      <a href="https://github.com/Jose-Daniel-Lopez/E-Commerce-Frontend">
+        <b>💼 Tejon Tech - Spring + Vue E-Commerce</b>
       </a>
       <br/>
       <sub>
-        <b>🛠️ Stack:</b> Java, Spring Boot, MySQL, JPA<br/>
+        <b>🛠️ Stack:</b> Spring, Vue, Typescript PostgreSQL<br/>
         <b>✨ Características:</b><br/>
-        • Portal completo de empleos<br/>
+        • E-Commerce tecnológica completa<br/>
         • Sistema de autenticación y roles<br/>
-        • Gestión de candidatos y empleadores<br/>
+        • Gestión de productos, cuenta, carrito, wishlist...<br/>
         • API RESTful robusta<br/>
+        • Seguridad con JWT y Rate Limiting de la API<br/>
         • Base de datos optimizada
       </sub>
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/Jose-Daniel-Lopez/SpringBoot-RealTimeChat-WebApplication">
-        <img src="images/chat-app.png" width="300" height="180" alt="Real-Time Chat" style="border-radius: 10px;"/><br/>
         <b>💬 Chat en Tiempo Real</b>
       </a>
       <br/>
