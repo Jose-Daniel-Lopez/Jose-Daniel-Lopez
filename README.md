@@ -4,7 +4,7 @@
 
 # 💫 Acerca de mí
 
-<img align="right" height="120" src="https://avatars.githubusercontent.com/u/tu-usuario" />
+<img align="right" height="120" src="https://avatars.githubusercontent.com/u/Jose-Daniel-Lopez" alt="Jose Daniel López" />
 
 👋 Hola, soy **Jose Daniel López** — un desarrollador apasionado especializado en **Java y Spring** que ama construir aplicaciones robustas y escalables.
 
@@ -60,70 +60,122 @@
 
 ### 🚀 Lenguajes & Frameworks
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge&logo=lombok&logoColor=white)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge&logo=lombok&logoColor=white" alt="Lombok"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud"/>
+    </td>
+  </tr>
+</table>
 
-### 🗄️ Bases de Datos Relacionales
+### 🗄️ Bases de Datos
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![H2](https://img.shields.io/badge/H2-1021FF?style=for-the-badge&logo=h2&logoColor=white)
-
-### 📊 Bases de Datos NoSQL
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/H2-1021FF?style=for-the-badge&logo=h2&logoColor=white" alt="H2"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra"/>
+    </td>
+  </tr>
+</table>
 
 ### 🔗 APIs & Persistencia
 
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" alt="JDBC"/>
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Herramientas de Desarrollo
 
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia"/>
+    </td>
+  </tr>
+</table>
 
 ### 📐 Diseño & Diagramas
 
-![StarUML](https://img.shields.io/badge/StarUML-FF6B6B?style=for-the-badge&logo=staruml&logoColor=white)
-![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![PlantUML](https://img.shields.io/badge/PlantUML-4CAF50?style=for-the-badge&logo=plantuml&logoColor=white)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/StarUML-FF6B6B?style=for-the-badge&logo=staruml&logoColor=white" alt="StarUML"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="draw.io"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PlantUML-4CAF50?style=for-the-badge&logo=plantuml&logoColor=white" alt="PlantUML"/>
+    </td>
+  </tr>
+</table>
 
 ### ⚡ Sistemas de Mensajería
 
-![ActiveMQ](https://img.shields.io/badge/ActiveMQ-FF6B6B?style=for-the-badge&logo=apache&logoColor=white)
-![Artemis](https://img.shields.io/badge/Artemis-FF6B6B?style=for-the-badge&logo=apache&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
-## 🎯 Actualmente Aprendiendo
-
-<div align="center">
-
-### 🌐 Frontend Moderno
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-
-### ⚡ Sistemas de Alto Rendimiento
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-### ☁️ Arquitectura Distribuida
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microgenetics&logoColor=white)
-
-</div>
-
-### 🚀 Enfoque de Aprendizaje
-
-**Frontend Evolution:** Expandiendo mis habilidades fullstack con Vue.js para complementar mi experiencia en Spring Boot
-
-**Performance & Systems:** Explorando Rust para aplicaciones de alto rendimiento y programación de sistemas
-
-**Cloud Architecture:** Profundizando en Spring Cloud y patrones de microservicios para aplicaciones escalables y distribuidas
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/ActiveMQ-FF6B6B?style=for-the-badge&logo=apache&logoColor=white" alt="ActiveMQ"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Artemis-FF6B6B?style=for-the-badge&logo=apache&logoColor=white" alt="Artemis"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
